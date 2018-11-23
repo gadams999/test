@@ -1,3 +1,3 @@
 # Test of relative links
 
-[same dir](./file.md)
+[same dir](file.md)
